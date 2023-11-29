@@ -1,12 +1,9 @@
 ---
 title: What is maturity / Apa arti kedewasaan?
 categories:
-- General
+- Uncategorized
 feature_image: "https://i.ibb.co/ZXSBvCY/maturity.jpg"
 --- 
-
-_What is maturity?_
-Apa arti kedewasaan?
 
 <!-- more -->
 
