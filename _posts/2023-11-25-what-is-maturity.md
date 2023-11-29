@@ -1,5 +1,5 @@
 ---
-title: Description of an Alembic
+title: What is maturity (Apa arti kedewasaan?)
 categories:
 - General
 feature_image: "https://i.ibb.co/ZXSBvCY/maturity.jpg"
@@ -8,6 +8,8 @@ feature_image: "https://i.ibb.co/ZXSBvCY/maturity.jpg"
 _What is maturity?_
 
 Apa arti kedewasaan?
+
+<!-- more -->
 
 1.  > Maturity is when you stop trying to change others… instead focus on changing yourself.
     
@@ -68,6 +70,9 @@ Apa arti kedewasaan?
 15.  > Maturity is when you are content and satisfied with your life and yet aspiring to be better every day.
     
     Kedewasaan adalah ketika kita merasa puas dan cukup dengan hidup kita, namun tetap bercita-cita untuk menjadi lebih baik setiap hari.
+    
+
+  
 
 _Wishing you a happy matured life._
 
