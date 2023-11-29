@@ -7,7 +7,7 @@ feature_image: "https://i.ibb.co/ZXSBvCY/maturity.jpg"
 
 <!-- more -->
 
- What is Maturity?
+What is Maturity?
 
 1.  Maturity is when you stop trying to change others… instead focus on changing yourself.
     
