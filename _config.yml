@@ -154,5 +154,5 @@ fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Readex+Pro&display=swap
-    - https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap
+    - https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300&display=swap
+    - https://fonts.googleapis.com/css2?family=Gabarito&display=swap
