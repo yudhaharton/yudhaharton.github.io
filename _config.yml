@@ -127,6 +127,12 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
+- title: Social Media
+  url: /social-media/
+- title: Joined Community
+  url: /joined-community/
+- title: Sample Page
+  url: /sample/
 
 navigation_footer:
 - title: Search
