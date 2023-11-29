@@ -1,12 +1,12 @@
 ---
 title:
 feature_text: |
-  ## Hello, World!
-  Selamat datang di situs pribadiku.
-feature_image: "https://i.ibb.co/1rw2m4r/IRWN2699.jpg"
+feature_image: "https://i.ibb.co/dP6PRSN/IRWN2699.jpg"
 excerpt: ""
 ---
 
+## Hello, World!
+Selamat datang di situs pribadiku.
 
 👋 Hai, namaku Yudha Harton.
 
