@@ -1,5 +1,5 @@
 ---
-title: Terjemahan Lirik Lagu: Joyce Jonathan - Ça Ira
+title: Terjemahan Lirik Lagu Joyce Jonathan - Ça Ira
 categories:
 - Uncategorized
 feature_image: "https://i.ibb.co/ZXSBvCY/maturity.jpg"
