@@ -21,7 +21,7 @@ excerpt: "Semua sosial media yang kupunya."
 - github.com[/yudhaharton](https://github.com/yudhaharton)
 - disqus.com/by[/yudhaharton](https://disqus.com/by/yudhaharton)
 
-## OCCASIONALLY - Social media yang kadang-kadang dibuka, minimal dua minggu sekali**
+**OCCASIONALLY - Social media yang kadang-kadang dibuka, minimal dua minggu sekali**
 - facebook.com/profile.php?id=[100012220243266](https://www.facebook.com/profile.php?id=100012220243266)
 - [yudhaharton](https://yudhaharton.imgbb.com/).imgbb.com
 
