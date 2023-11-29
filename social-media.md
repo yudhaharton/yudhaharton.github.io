@@ -11,6 +11,7 @@ excerpt: "Semua sosial media yang kupunya."
 
 ## USUALLY - Sosial media yang biasanya dibuka, minimal sehari sekali.
 - duolingo.com[/yudhaharton](https://duolingo.com/yudhaharton)
+- google.com/maps/contrib[/115171023594680861028](https://maps.app.goo.gl/hNQNvpXv7S7DBjLCA)
 
 ## OFTEN - Sosial media yang sering dibuka, minimal sekali dalam tiga hari.
 - instagram.com[/yudha_harton](https://instagram.com/yudha_harton)
