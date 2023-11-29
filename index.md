@@ -3,7 +3,7 @@ title:
 feature_text: |
   ## Hello, World!
   Selamat datang di situs pribadiku.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://i.ibb.co/2jw1CrM/IRWN2699.jpg"
 excerpt: ""
 ---
 
