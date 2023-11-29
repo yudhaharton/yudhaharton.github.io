@@ -1,11 +1,11 @@
 ---
-title: Homepage
+title:
 feature_text: |
 feature_image: "https://i.ibb.co/dP6PRSN/IRWN2699.jpg"
 excerpt: ""
 ---
 
-## Hello, World!
+Hello, World!
 
 Selamat datang di situs pribadiku.
 
