@@ -12,7 +12,9 @@ feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
 ## Verse 1
 
 ***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux***
+ 
 *Tell me if you're here it's not just for my pretty eyes*
+ 
 **Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
 
 ***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux***
