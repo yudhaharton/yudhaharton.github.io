@@ -2,7 +2,7 @@
 title: Social Media
 feature_text: |
   Semua sosial media yang kupunya.
-feature_image: "https://img.freepik.com/free-vector/colorful-icons-set-style_79603-1269.jpg"
+feature_image: "https://img.freepik.com/free-vector/social-media-logos-background_69286-204.jpg?w=1080"
 excerpt: "Semua sosial media yang kupunya."
 ---
 
