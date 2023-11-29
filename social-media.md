@@ -1,10 +1,11 @@
 ---
 title: Social Media
 feature_text: |
-  Semua sosial media yang kupunya.
 feature_image: "https://img.freepik.com/free-vector/social-media-logos-background_69286-204.jpg?w=1080"
-excerpt: "Semua sosial media yang kupunya."
+excerpt: "Semua akun sosial media resmi yang kumiliki."
 ---
+
+Semua akun sosial media resmi yang kumiliki.
 
 **ALWAYS - Sosial media yang selalu aktif, selalu dibuka dalam beberapa jam**
 - telegram.me[/yudhaharton](https://telegram.me/yudhaharton)
@@ -28,3 +29,5 @@ excerpt: "Semua sosial media yang kupunya."
 **SELDOM - Sosial media yang jarang aktif, jarang dibuka minimal sekali dalam sebulan**
 - [yudhaharton](https://yudhaharton.tumblr.com).tumblr.com
 - pinterest.com[/yudhaharton](https://pinterest/yudhaharton)
+
+Jika ada orang lain yang menggunakan nama yang sama denganku di media sosial, kupastikan itu tidak berafliasi denganku / bukan milikiku.
