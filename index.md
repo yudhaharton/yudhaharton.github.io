@@ -23,10 +23,12 @@ Beberapa informasi tentangku:
 - 🚴 Karena mencintai alam, tentu saja aku suka bersepeda atau bertransportasi publik.
 - ⚛️  Pemikir bebas atau freethinker, yaitu seseorang yang memiliki pandangan filosofis yang menyatakan opini harus dibentuk berdasarkan ilmu pengetahuan, logika, dan akal, dan tidak boleh dipengaruhi oleh kekuasaan, tradisi, dogma, dan agama.
 
-Kalian dapat berkunjung ke halaman 📝[/blog](/blog) untuk membaca tulisan-tulisanku.
+Silakan kunjungi halaman 📝[/blog](/blog) untuk membaca tulisan-tulisanku.
 
-Kunjungi halaman 📲[/social-media](/social-media) untuk melihat semua media yang kupunya.
-
-Jika ingin menghubungiku, kunjungi halaman 📧[/contact](/contact).
+Kunjungi halaman 📲[/social-media](/social-media) untuk menghubungiku dan melihat semua media yang kupunya.
 
 Sedang dibuat halaman yang memuat CV-ku.
+
+Situs ini baru dibuat, belum sepenuhnya jadi. Masih ada yang harus dikerjakan. Mohon maaf bila ada missing link dan error lainnya.
+
+Terima kasih sudah mampir 😊 
