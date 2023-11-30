@@ -27,6 +27,6 @@ A few pages on this site:
 - 🔍[/search](/search) untuk mencari.
 - 📄[/sample](/sample) adalah contoh halaman yang memuat semua elemen markdown syntax.
 
-Situs ini baru dibuat, belum sepenuhnya jadi. Masih ada yang harus dikerjakan. Mohon maaf bila ada missing link atau/dan error lainnya. Situs ini rencananya akan berisi portofolio dan blog. Sedang dibuat halaman yang memuat CV-ku.
+Situs ini baru dibuat. Belum sepenuhnya jadi, masih ada yang harus dikerjakan. Mohon maaf bila ada missing link atau/dan error lainnya. Rencananya akan dijadikan situs yang memuat blog dan portofolio beserta CV.
 
 Terima kasih sudah mampir 😊
