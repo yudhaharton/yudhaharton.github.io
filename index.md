@@ -7,29 +7,28 @@ excerpt: ""
 
 Hello, World!
 
-Selamat datang di situs pribadiku.
+Bienvenue. Bonjour, comment ça va ? Je m'appelle Yudha Harton. Je suis née et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
 
-👋 Hai, namaku Yudha Harton.
+LIFE MOTTO: 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
 
-MOTTO HIDUP: 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
+My life principles:
+- 🧘‍♂️ Be mindful _(berpenyadaran)_.
+- ⚛️ Be a [freethinker](https://en.wikipedia.org/wiki/Freethought) _(ber[pemikiran bebas](pemikiran bebas))_.
+- 🗿 Practice Stoicism (praktikkan Stoikisme).
+- 🔗 Stay relevant _(tetap relevan)_.
+- ♥️ Treat others as one wants to be treated _(perlakukan orang lain sebagaimana engkau ingin diperlakukan)_.
+- ⚖️ Everything in moderation, including moderation _(segala sesuatu secara moderat, termasuk moderasi itu sendiri)_.
+- ✅ Finish what started (selesaikan apa yang dimulai)_.
 
-Beberapa informasi tentangku:
-- 🎓 Lulusan S1 Teknik Informatika Universitas Pamulang.
-- 🌱 Pecinta alam dan penyayang binatang, terutama anjing.
-- 🏠 Orang Betawi dan Jakarta asli, bertempat tinggal di stasiun di samping Stasiun Tanah Abang.
-- 🙌 Senang ikut komunitas dan bervolunteer. Kunjungi halaman komunitas yang kuikuti di [/joined-community](/joined-community).
-- 🇫🇷 Sedang belajar bahasa Prancis, sebagai bahasa ketiga sesudah Indonesia dan Inggris.
-- 🗣️ Bisa voice over.
-- 👩‍💻 Bercita-cita menjadi data scientist dan full-stack developer.
-- 🚴 Karena mencintai alam, tentu saja aku suka bersepeda atau bertransportasi publik.
-- ⚛️  Pemikir bebas atau freethinker, yaitu seseorang yang memiliki pandangan filosofis yang menyatakan opini harus dibentuk berdasarkan ilmu pengetahuan, logika, dan akal, dan tidak boleh dipengaruhi oleh kekuasaan, tradisi, dogma, dan agama.
+A few pages on this site:
+- 📝[/blog](/blog) berisi tulisanku.
+- 📲[/social-media](/social-media) berisi daftar semua akun media yang miliki.
+- 🤝[/joined-community](/joined-community) berisi daftar komunitas yang kuikuti berserta foto.
+- 🔍[/search](/search) untuk mencari.
+- 📄[/sample](/sample) adalah contoh halaman yang memuat semua elemen markdown syntax.
 
-Silakan kunjungi halaman 📝[/blog](/blog) untuk membaca tulisan-tulisanku.
+Situs ini (rencananya akan) berisi portofolio dan blog. Sedang dibuat halaman yang memuat CV-ku.
 
-Kunjungi halaman 📲[/social-media](/social-media) untuk menghubungiku dan melihat semua media yang kupunya.
+Situs ini baru dibuat, belum sepenuhnya jadi. Masih ada yang harus dikerjakan. Mohon maaf bila ada missing link atau/dan error lainnya.
 
-Sedang dibuat halaman yang memuat CV-ku.
-
-Situs ini baru dibuat, belum sepenuhnya jadi. Masih ada yang harus dikerjakan. Mohon maaf bila ada missing link dan error lainnya.
-
-Terima kasih sudah mampir 😊 
+Terima kasih sudah mampir 😊
