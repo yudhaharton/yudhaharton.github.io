@@ -13,7 +13,7 @@ LIFE MOTTO: 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
 
 My life principles:
 - 🧘‍♂️ Be mindful _(berpenyadaran)_.
-- ⚛️ Be a [freethinker](https://en.wikipedia.org/wiki/Freethought) _(ber[pemikiran bebas](pemikiran bebas))_.
+- ⚛️ Be a [freethinker](https://en.wikipedia.org/wiki/Freethought) _(ber[pemikiran bebas](https://id.wikipedia.org/wiki/Pemikiran_bebas))_.
 - 🗿 Practice Stoicism _(praktikkan Stoikisme)_.
 - 🔗 Stay relevant _(tetap relevan)_.
 - 🤝 Treat others as one wants to be treated _(perlakukan orang lain sebagaimana engkau ingin diperlakukan)_.
