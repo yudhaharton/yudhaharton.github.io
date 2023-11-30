@@ -30,5 +30,8 @@ Semua akun sosial media resmi yang kumiliki.
 **SELDOM - Sosial media yang jarang aktif, jarang dibuka minimal sekali dalam sebulan**
 - [yudhaharton](https://yudhaharton.tumblr.com).tumblr.com
 - pinterest.com[/yudhaharton](https://pinterest/yudhaharton)
+- meetup.com/members[/261769738/](https://www.meetup.com/members/261769738)
+- rovo.co[/@yudhaharton](https://rovo.co/@yudhaharton)
+
 
 Jika ada orang lain yang menggunakan nama yang sama denganku di media sosial, kupastikan itu tidak berafliasi denganku / bukan milikiku.
