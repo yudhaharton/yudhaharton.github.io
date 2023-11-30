@@ -7,7 +7,7 @@ excerpt: ""
 
 Hello, World!
 
-Bienvenue. Bonjour, comment ça va ? Je m'appelle Yudha Harton. Je suis née et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
+Bienvenue. Salut, comment ça va ? Je m'appelle Yudha Harton. Je suis née et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
 
 LIFE MOTTO: 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
 
