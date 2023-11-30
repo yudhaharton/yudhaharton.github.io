@@ -11,14 +11,13 @@ feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
 
 ## Verse 1
 
-***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux***
-&nbsp;
-*Tell me if you're here it's not just for my pretty eyes*
-**Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
+- ***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux***
+- *Tell me if you're here it's not just for my pretty eyes*
+- **Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
 
-***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux***
-*Tell me that beyond that there are other reasons that make you happy*
-**Katakan padaku bahwa kamu memiliki perasaan bahagia di balik itu** 
+- ***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux***
+- *Tell me that beyond that there are other reasons that make you happy*
+- **Katakan padaku bahwa kamu memiliki perasaan bahagia di balik itu** 
 
 ***Dis-moi si tu aimes biens bien nosparesses et nos matins d'amoureux***
 *Tell me if you like our laziness and our romantic mornings*
