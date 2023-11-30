@@ -16,7 +16,7 @@ My life principles:
 - ⚛️ Be a [freethinker](https://en.wikipedia.org/wiki/Freethought) _(ber[pemikiran bebas](pemikiran bebas))_.
 - 🗿 Practice Stoicism _(praktikkan Stoikisme)_.
 - 🔗 Stay relevant _(tetap relevan)_.
-- ♥️ Treat others as one wants to be treated _(perlakukan orang lain sebagaimana engkau ingin diperlakukan)_.
+- 🤝 Treat others as one wants to be treated _(perlakukan orang lain sebagaimana engkau ingin diperlakukan)_.
 - ⚖️ Everything in moderation, including moderation _(segala sesuatu secara moderat, termasuk moderasi itu sendiri)_.
 - ✅ Finish what started _(selesaikan apa yang dimulai)_.
 
