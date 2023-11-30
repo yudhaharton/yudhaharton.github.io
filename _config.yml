@@ -100,7 +100,7 @@ logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 # baseurl: ""
 # repo: ""
 # email: ""
-# disqus: "" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+ disqus: "yudhaharton.disqus.com" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
