@@ -34,4 +34,4 @@ Semua akun sosial media resmi yang kumiliki.
 - rovo.co[/@yudhaharton](https://rovo.co/@yudhaharton)
 
 
-Jika ada orang lain yang menggunakan nama yang sama denganku di media sosial, kupastikan itu tidak berafliasi denganku / bukan milikiku.
+Hanya itu sosial media yang kupunya. Jika ada kesamaan nama pada akun sosial media lain, berarti itu milik orang lain dan tidak berafliasi denganku.
