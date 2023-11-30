@@ -21,11 +21,11 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+[A link](https://wwww.google.com "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+Duis aute irure dolor in [A link](https://wwww.google.com "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
 * An item
 * An item
@@ -96,49 +96,50 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Button include
 
-{% include button.html text="A button" link="https://david.darn.es" %}
+{% include button.html text="A button" link="wwww.google.com" %}
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
+{% include button.html text="A button with icon" link="https://twitter.com" icon="twitter" %}
 
 ``` html
-{% raw %}{% include button.html text="A button" link="https://david.darn.es" %}
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}{% endraw %}
+{% raw %}{% include button.html text="A button" link="https://wwww.google.com" %}
+{% include button.html text="A button with icon" link="https://twitter.com/" icon="twitter" %}{% endraw %}
 ```
 
 ### Icon include
 
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/)
 
 ``` html
 {% raw %}{% include icon.html id="twitter" title="twitter" %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/){% endraw %}
 ```
 
 ### Video include
 
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
+{% include video.html id="RDE6Uz73A7g" title="The Hunger Games: The Ballad of Songbirds & Snakes (2023) Official Trailer" %}
 
 ``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
+{% raw %}{% include video.html id="RDE6Uz73A7g" title="The Hunger Games: The Ballad of Songbirds & Snakes (2023) Official Trailer
+" %}{% endraw %}
 ```
 
 
 ### Image includes
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" caption="Image with caption" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" caption="Right aligned image" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" caption="Left aligned image" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" alt="Image with just alt text" %}
 
 ``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% raw %}{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" caption="Image with caption" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" caption="Right aligned image" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" caption="Left aligned image" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
+{% include figure.html image="https://assets.playgroundai.com/921fa7b2-0dc8-4e22-bc55-035f319f57dc.jpg" alt="Image with just alt text" %}{% endraw %}
 ```
