@@ -1,11 +1,11 @@
 ---
-title:
+title: Homepage
 feature_text: |
 feature_image: "https://i.ibb.co/dP6PRSN/IRWN2699.jpg"
 excerpt: ""
 ---
 
-# Je suis Yudha Harton
+## Je suis Yudha Harton
 
 Je suis né et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
 
