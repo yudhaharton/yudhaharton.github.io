@@ -11,29 +11,30 @@ feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
 
 ## Verse 1
 
-> ***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux***
-> *Tell me if you're here it's not just for my pretty eyes*
-> **Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
+***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux***
+&nbsp;
+*Tell me if you're here it's not just for my pretty eyes*
+**Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
 
-> ***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux***
->*Tell me that beyond that there are other reasons that make you happy*
-> **Katakan padaku bahwa kamu memiliki perasaan bahagia di balik itu**
+***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux***
+*Tell me that beyond that there are other reasons that make you happy*
+**Katakan padaku bahwa kamu memiliki perasaan bahagia di balik itu** 
 
-> ***Dis-moi si tu aimes biens bien nosparesses et nos matins d'amoureux***
-> *Tell me if you like our laziness and our romantic mornings*
-> **Katakan padaku jika kamu menyukai pagi-pagi hari kita yang romantis dan penuh kemalasan**
+***Dis-moi si tu aimes biens bien nosparesses et nos matins d'amoureux***
+*Tell me if you like our laziness and our romantic mornings*
+**Katakan padaku jika kamu menyukai pagi-pagi hari kita yang romantis dan penuh kemalasan**
 
-> ***Dis-moi que c'est un début mais que tuvois déjà la suite à deux***
-> *Tell me it's a start but you already have the sequel to two*
-> **Katakan padaku bahwa itu baru awal tapi kamu melihat masa depan kita bersama**
+***Dis-moi que c'est un début mais que tuvois déjà la suite à deux***
+*Tell me it's a start but you already have the sequel to two*
+**Katakan padaku bahwa itu baru awal tapi kamu melihat masa depan kita bersama**
 
-> ***Dis-moi que je suis la seule que tun'aies jamais autant désirée***
-> *Tell me that I'm the only one I've ever wanted so much*
-> **Katakan bahwa akulah satu-satunya yang kamu inginkan**
+***Dis-moi que je suis la seule que tun'aies jamais autant désirée***
+*Tell me that I'm the only one I've ever wanted so much*
+**Katakan bahwa akulah satu-satunya yang kamu inginkan**
 
-> ***Je n'ai pas de rendez vous, plus derencard que j'ai envie d'accepter***
-> *I don't have a date, no more dates that I want to accept*
-> **Aku tidak memiliki janji, tidak ada tanggal yang ingin aku terima**
+***Je n'ai pas de rendez vous, plus derencard que j'ai envie d'accepter***
+*I don't have a date, no more dates that I want to accept*
+**Aku tidak memiliki janji, tidak ada tanggal yang ingin aku terima**
 
 **Avec toi c'est évident je suis prête àoublier mon passé**
 *With you it's obvious I'm ready to forget my past*
