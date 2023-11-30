@@ -95,12 +95,12 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Yudha Harton" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
-description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "https://github.com/yudhaharton/yudhaharton.github.io"
-email: ""
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# description: "" # Site description and default description, also used in jekyll-seo-tag
+# url: "" # Site url, also used in jekyll-seo-tag
+# baseurl: ""
+# repo: ""
+# email: ""
+ disqus: "yudhaharton" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
