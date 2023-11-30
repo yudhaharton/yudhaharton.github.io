@@ -21,10 +21,10 @@ My life principles:
 - ✅ Finish what started _(selesaikan apa yang dimulai)_.
 
 A few pages on this site:
-- 📝[/blog](/blog) berisi tulisanku.
-- 📲[/social-media](/social-media) berisi daftar semua akun media yang miliki.
-- 🙌[/joined-community](/joined-community) berisi daftar komunitas yang kuikuti berserta foto.
-- 📄[/sample](/sample) adalah contoh halaman yang memuat semua elemen markdown syntax.
+- [📝/blog](/blog) berisi tulisanku.
+- [📲/social-media](/social-media) berisi daftar semua akun media yang miliki.
+- [🙌/joined-community](/joined-community) berisi daftar komunitas yang kuikuti berserta foto.
+- [📄/sample](/sample) adalah contoh halaman yang memuat semua elemen markdown syntax.
 
 Situs ini baru dibuat. Belum sepenuhnya jadi, masih ada yang harus dikerjakan. Mohon maaf bila ada missing link atau/dan error lainnya. Rencananya akan dijadikan situs yang memuat blog dan portofolio beserta CV.
 
