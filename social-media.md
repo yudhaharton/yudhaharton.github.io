@@ -9,7 +9,7 @@ Semua akun sosial media resmi yang kumiliki.
 
 **ALWAYS - Sosial media yang selalu aktif, selalu dibuka dalam beberapa jam**
 - telegram.me[/yudhaharton](https://telegram.me/yudhaharton)
-- whatsapp[/whatsap](https://i.ibb.co/CzBbrcc/WhatsApp.jpg)
+- [whatsapp](https://i.ibb.co/CzBbrcc/WhatsApp.jpg)
 
 **USUALLY - Sosial media yang biasanya dibuka, minimal sehari sekali**
 - duolingo.com[/yudhaharton](https://duolingo.com/yudhaharton)
