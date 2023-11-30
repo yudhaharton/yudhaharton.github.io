@@ -13,12 +13,17 @@ Bienvenue. Salut, comment ça va ? Je m'appelle **Yudha Harton**. Je suis né et
 
 **My life principles:**
 - 🧘‍♂️ Be mindful _(berpenyadaran)_.
-- ⚛️ Be a [freethinker](https://en.wikipedia.org/wiki/Freethought) _(ber[pemikiran bebas](https://id.wikipedia.org/wiki/Pemikiran_bebas))_.
-- 🗿 Practice Stoicism _(mempraktikkan Stoikisme)_.
 - 🔗 Stay relevant _(tetap relevan)_.
 - 🤝 Treat others as one wants to be treated _(perlakukan orang lain sebagaimana engkau ingin diperlakukan)_.
 - ⚖️ Everything in moderation, including moderation _(segala sesuatu secara moderat, termasuk moderasi itu sendiri)_.
 - ✅ Finish what started _(selesaikan apa yang dimulai)_.
+
+**What I follow and believe**
+- ⚛️ [Freethought](https://en.wikipedia.org/wiki/Freethought) _([Pemikiran bebas](https://id.wikipedia.org/wiki/Pemikiran_bebas))_.
+- 🗿 [Stoicism](https://en.wikipedia.org/wiki/Stoicism) _([Stoikisme](https://id.wikipedia.org/wiki/Stoikisme))_.
+- 🪷 [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism) _([Buddhisme sekuler](https://id.wikipedia.org/wiki/Buddhisme_sekuler))_.
+- 🌌 [Pantheism](https://en.wikipedia.org/wiki/Pantheism) _([Panteisme](https://id.wikipedia.org/wiki/Panteisme))_.
+- ❤️ [Ikigai](https://en.wikipedia.org/wiki/Ikigai) _([Ikigai](https://id.wikipedia.org/wiki/Ikigai))_.
 
 **A few pages on this site:**
 - [📝/blog](/blog) berisi tulisanku.
