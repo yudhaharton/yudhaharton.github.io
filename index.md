@@ -5,13 +5,13 @@ feature_image: "https://i.ibb.co/dP6PRSN/IRWN2699.jpg"
 excerpt: ""
 ---
 
-Hello, World!
+***Hello, World!**
 
-Bienvenue. Salut, comment ça va ? Je m'appelle Yudha Harton. Je suis né et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
+Bienvenue. Salut, comment ça va ? Je m'appelle ***Yudha Harton**. Je suis né et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
 
-LIFE MOTTO: 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
+***LIFE MOTTO**: 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
 
-My life principles:
+****My life principles:**
 - 🧘‍♂️ Be mindful _(berpenyadaran)_.
 - ⚛️ Be a [freethinker](https://en.wikipedia.org/wiki/Freethought) _(ber[pemikiran bebas](https://id.wikipedia.org/wiki/Pemikiran_bebas))_.
 - 🗿 Practice Stoicism _(mempraktikkan Stoikisme)_.
@@ -20,7 +20,7 @@ My life principles:
 - ⚖️ Everything in moderation, including moderation _(segala sesuatu secara moderat, termasuk moderasi itu sendiri)_.
 - ✅ Finish what started _(selesaikan apa yang dimulai)_.
 
-A few pages on this site:
+****A few pages on this site:**
 - [📝/blog](/blog) berisi tulisanku.
 - [📲/social-media](/social-media) berisi daftar semua akun media yang miliki.
 - [🙌/joined-community](/joined-community) berisi daftar komunitas yang kuikuti berserta foto.
