@@ -9,10 +9,10 @@ feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
 
 {% include video.html id="TxWLybPwBzs" %}
 
-## Verse 1
+[Verse 1]
 
-***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux*** |
-*Tell me if you're here it's not just for my pretty eyes* |
+***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux***
+*Tell me if you're here it's not just for my pretty eyes*
 **Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
 
 ***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux***
@@ -43,7 +43,7 @@ feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
 *I always liked to charm but it doesn't matter that it's only you that I like*
 **Aku selalu suka tebar pesona, tapi tidak apa-apa jika kamulah satu-satunya yang menyukaiku**
 
-## Chorus 1
+[Chorus 1]
 
 ***Moi je me dis que c'est toi***
 *I tell myself that it's you*
@@ -89,7 +89,7 @@ Forgive me my doubts and my anger
 *Well that will be fine*
 **Kita akan akur**
 
-## Verse 2
+[Verse 2]
 
 ***J'aime les airs assurés que tu empruntes aux plus beaux monuments***
 *I love the confident airs that you borrow from the most beautiful monuments*
@@ -149,7 +149,7 @@ Forgive me my doubts and my anger
 *And you and me*
 **Dan kamu dan aku**
 
-## Bridge
+[Bridge]
 
 ***Je me dis prenons des risques et de toute façon c'est trop tard***
 *I tell myself let's take risks and anyway it's too late*
@@ -167,7 +167,7 @@ Forgive me my doubts and my anger
 *Oh you know I'm scared*
 **Oh, aku takut, kamu tahu**
 
-## Chorus 3
+[Chorus 3]
 
 ***Je me dis que c'est toi***
 *I think it's you*
