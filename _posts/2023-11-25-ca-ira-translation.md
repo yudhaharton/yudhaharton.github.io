@@ -3,7 +3,6 @@ title: Terjemahan Lirik Lagu Joyce Jonathan - Ça Ira
 categories:
 - French Lyrics
 feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
-comments: true
 --- 
 
 <!-- more -->
