@@ -23,8 +23,8 @@ feature_image: "https://img.youtube.com/vi/EelX_LwPHbA/maxresdefault.jpg"
 *I am told that the time that slips away is a bastard* \
 **Aku diberitahu bahwa waktu yang berlalu seperti bajingan**
 
-***Que de nos chagrins il s'en fait des manteaux***
-*And that it's making coats from our grief*
+***Que de nos chagrins il s'en fait des manteaux*** \
+*And that it's making coats from our grief* \
 **Dan kesedihan kita dibiarkan saja**
 
 ## Chorus 1
