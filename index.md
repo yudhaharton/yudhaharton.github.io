@@ -9,7 +9,7 @@ excerpt: ""
 Je suis né et je vis à Jakarta. Je suis étudiante en ingénierie informatique à l'université de Pamulang. Je parle trois langues : l'indonésien, l'anglais et le français, que j'étudie actuellement. J'aime le vélo, la nature et les animaux, en particulier les chiens. Je peux faire du doublage vocal.
 
 **Life motto**:
-> 🧠 Healthy Mind, 💪 Healthy Body, 🌎 Healthy Earth.
+> 🧠 Healthy Mind, 💪 Healthy Body, 🌱 Healthy Earth.
 
 **My life principles:**
 - 🧘‍♂️ Be mindful _(berpenyadaran)_.
