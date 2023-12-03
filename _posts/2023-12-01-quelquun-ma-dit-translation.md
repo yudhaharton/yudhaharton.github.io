@@ -1,250 +1,139 @@
 ---
-title: Terjemahan Lirik Lagu Joyce Jonathan - Ça Ira
+title: Terjemahan Lirik Lagu Carla Bruni - Quelqu'un m'a dit
 categories:
 - French Lyrics
-feature_image: "https://img.youtube.com/vi/TxWLybPwBzs/maxresdefault.jpg"
+feature_image: "https://img.youtube.com/vi/EelX_LwPHbA/maxresdefault.jpg"
 --- 
 
 <!-- more -->
 
-{% include video.html id="TxWLybPwBzs" %}
+{% include video.html id="EelX_LwPHbA" %}
 
 ## Verse 1
 
-***Dis-moi que si tu es là ce n'est pasjuste pour mes jolis yeux*** \
-*Tell me if you're here it's not just for my pretty eyes* \
-**Katakan padaku kamu ada di sana tidak hanya untuk melihat mataku yang cantik**
+***On me dit que nos vies ne valent pas grand-chose*** \
+*I am told that our lives don't have great value* \
+**Aku diberitahu bahwa hidup kita tidak berharga**
 
-***Dis-moi qu'au delà de ça y a d'autresraisons qui te rendent heureux*** \
-*Tell me that beyond that there are other reasons that make you happy* \
-**Katakan padaku bahwa kamu memiliki perasaan bahagia di balik itu** 
+***Elles passent en un instant comme fanent les roses*** \
+*They pass in an instant like roses wither* \
+**Hidup berlalu dalam sekejap secepat layunya mawar**
 
-***Dis-moi si tu aimes biens bien nosparesses et nos matins d'amoureux*** \
-*Tell me if you like our laziness and our romantic mornings* \
-**Katakan padaku jika kamu menyukai pagi-pagi hari kita yang romantis dan penuh kemalasan**
+***On me dit que le temps qui glisse est un salaud*** \
+*I am told that the time that slips away is a bastard* \
+**Aku diberitahu bahwa waktu yang berlalu seperti bajingan**
 
-***Dis-moi que c'est un début mais que tuvois déjà la suite à deux*** \
-*Tell me it's a start but you already have the sequel to two* \
-**Katakan padaku bahwa itu baru awal tapi kamu melihat masa depan kita bersama**
-
-***Dis-moi que je suis la seule que tun'aies jamais autant désirée*** \
-*Tell me that I'm the only one I've ever wanted so much* \
-**Katakan bahwa akulah satu-satunya yang kamu inginkan**
-
-***Je n'ai pas de rendez vous, plus derencard que j'ai envie d'accepter*** \
-*I don't have a date, no more dates that I want to accept* \
-**Aku tidak memiliki janji, tidak ada tanggal yang ingin aku terima**
-
-**Avec toi c'est évident je suis prête àoublier mon passé** \
-*With you it's obvious I'm ready to forget my past* \
-**Denganmu, sudah jelas aku siap melupakan masa laluku**
-
-***J'ai toujours aimé charmer mais peuimporte qu'il n'y a qu'à toi que je plais*** \
-*I always liked to charm but it doesn't matter that it's only you that I like* \
-**Aku selalu suka tebar pesona, tapi tidak apa-apa jika kamulah satu-satunya yang menyukaiku**
+***Que de nos chagrins il s'en fait des manteaux***
+*And that it's making coats from our grief*
+**Dan kesedihan kita dibiarkan saja**
 
 ## Chorus 1
 
-***Moi je me dis que c'est toi*** \
-*I tell myself that it's you* \
-**Aku, aku pikir kamulah satu-satunya**
+***Pourtant quelqu'un m'a dit, que tu m'aimais encore*** \
+*However someone told me, that you still love me* \
+**Namun seseorang memberitahuku, bahwa kamu masih mencintaiku**
 
-***Et je sais que tu y crois*** \
-*And I know you believe it* \
-**Dan aku tahu kamu percaya akan hal itu**
+***C'est quelqu'un qui m'a dit, que tu m'aimais encore*** \
+*It is someone that told me, that you still love me* \
+**Seseorang yang memberitahuku, bahwa kamu masih mencintaiku**
 
-***Tu es celui qui rythme mes bonheurs*** \
-*You are the one who gives rhythm to my happiness* \
-**Kamu adalah orang yang memberi irama pada kegembiraanku**
-
-***Qui rythme mes humeurs*** \
-*Which rhythm my moods* \
-**Yang berikan irama untuk suasana hatiku**
-
-***Juste comme ça*** \
-*Just like that* \
-**Seperti itu**
-
-***Et je me dis que c'est toi*** \
-*And I tell myself that it's you* \
-**Dan aku pikir kamulah satu-satunya**
-
-***Et pour la toute première fois*** \
-*And for the very first time* \
-**Dan untuk pertama kalinya**
-
-***Pardonne moi mes doutes et mes colères*** \
-Forgive me my doubts and my anger \
-**Maafkan keragu-raguan dan amukanku**
-
-***Le temps fera l'affaire*** \
-*Time will do* \
-**Waktu akan melakukan triknya**
-
-***Et toi et moi*** \
-*And you and me* \
-**Dan kamu dan aku**
-
-***Oh ça ira*** \
-*Well that will be fine* \
-**Kita akan akur**
+***Serait-ce possible alors?*** \
+*Would it be possible then?* \
+**Kalau begitu, apakah mungkin?**
 
 ## Verse 2
 
-***J'aime les airs assurés que tu empruntes aux plus beaux monuments*** \
-*I love the confident airs that you borrow from the most beautiful monuments* \
-**Aku menyukai tampilan percaya diri yang kamu pinjam dari monumen paling indah**
+***On dit que le destin se moque bien de nous*** \
+*I am told that destiny is making fun of us* \
+**Mereka bilang takdir mempermainkan kita**
 
-***Ton regard doux comme un secret tes caresses aux limites de l'indécent*** \
-*Your gaze sweet as a secret, your caresses bordering on the indecent* \
-**Tatapanmu ringan seperti rahasia dan goresanmu yang hampir tidak senonoh**
+***Qu'il ne nous donne rien et qu'il nous promet tout*** \
+*It doesn't give us anything and it promise us everything* \
+**Takdir tak memberi kita apa-apa, tapi menjanjikan kita segalanya**
 
-***Tu comprends tous mes silences chacun de mes petits moments d'absence*** \
-*You understand all my silences each of my little moments of absence* \
-**Kamu mengerti setiap keheninganku, kekosongan kecilku**
+***Paraît que le bonheur est à portée de main*** \
+*It appears that happiness is within reach* \
+**Sepertinya kebahagiaan sudah bisa didapat**
 
-***Si je vais au paradis j'suis pas sur devoir la différence*** \
-*If I go to heaven, I'm not sure I owe the difference* \
-**Jika aku pergi ke surga, aku mungkin tidak tahu bedanya**
+***Alors on tend la main et on se retrouve fou*** \
+*So we reach out and we find ourselves crazy* \
+**Saat kami saling menjangkau, kita jadi hilang akal**
 
 ## Chorus 2
 
-***Moi je me dis que c'est toi*** \
-*I tell myself that it's you* \
-**Aku, aku pikir kamulah satu-satunya**
+***Pourtant quelqu'un m'a dit, que tu m'aimais encore*** \
+*However someone told me, that you still love me* \
+**Namun seseorang memberitahuku, bahwa kamu masih mencintaiku**
 
-**Et je sais que tu y crois** \
-*And I know you believe it* \
-**Dan aku tahu kamu percaya akan hal itu**
+***C'est quelqu'un qui m'a dit, que tu m'aimais encore*** \
+*It is someone that told me, that you still love me* \
+**Seseorang yang memberitahuku, bahwa kamu masih mencintaiku**
 
-***Tu es celui qui rythme mes bonheurs*** \
-*You are the one who gives rhythm to my happiness* \
-**Kamu adalah orang yang memberi irama pada kegembiraanku**
+***Serait-ce possible alors? (x2)*** \
+*Would it be possible then? (x2)* \
+**Kalau begitu, apakah mungkin? (x2)**
 
-***Qui rythme mes humeurs*** \
-*Which rhythm my moods* \
-**Yang berikan irama untuk suasana hatiku**
+## Verse 3
 
-***Juste comme ça*** \
-*Just like that* \
-**Seperti itu**
+***Mais qui est-ce qui m'a dit que toujours tu m'aimais?*** \
+*But who is it that told me that you always loved me?* \
+**Tapi siapa yang memberitahuku bahwa kamu masih mencintaiku?**
 
-***Et je me dis que c'est toi*** \
-*And I tell myself that it's you* \
-**Dan aku pikir kamulah satu-satunya**
+***Je ne me souviens plus, c'était tard dans la nuit*** \
+*I don't remember anymore, it was late in the night* \
+**Aku tidak ingat, saat itu sudah larut malam**
 
-***Et pour la toute première fois*** \
-*And for the very first time* \
-**Dan untuk pertama kalinya**
+***J'entends encore la voix, mais je ne vois plus les traits*** \
+*I still hear the voice, but I don't see the traits* \
+**Aku masih mendengar suaranya, tetapi tak dapat melihat cirinya lagi**
 
-***Pardonne moi mes doutes et mes colères*** \
-*Forgive me my doubts and my anger* \
-**Maafkan keragu-raguan dan amukanku**
-
-***Le temps fera l'affaire*** \
-*Time will do* \
-**Waktu akan melakukan triknya**
-
-***Et toi et moi*** \
-*And you and me* \
-**Dan kamu dan aku**
-
-## Bridge
-
-***Je me dis prenons des risques et de toute façon c'est trop tard*** \
-*I tell myself let's take risks and anyway it's too late* \
-**Kukatakan pada diriku sendiri, mari mengambil risiko, dan ini sudah terlambat**
-
-***Au pire on aura des souvenirs des jolis moments dans les tiroirs*** \
-*At worst we will have memories of the beautiful moments in the drawers* \
-**Hal terburuknya kita masih akan memiliki kenangan saat-saat indah di toko**
-
-***J'ai peur de ta gentillesse elle promettant de bonheur*** \
-*I'm afraid of your kindness, she promises happiness* \
-**Aku takut akan kebaikanmu, yang sangat menjanjikan kebahagiaan**
-
-***Oh tu sais j'ai peur*** \
-*Oh you know I'm scared* \
-**Oh, aku takut, kamu tahu**
+***“Il vous aime, c'est secret, lui dites pas que je vous l'ai dit”*** \
+*“He loves you, it's a secret, don't tell him what I told you”* \
+**“Dia mencintaimu, ini rahasia, jangan katakan padanya bahwa aku sudah memberitahumu”**
 
 ## Chorus 3
 
-***Je me dis que c'est toi*** \
-*I think it's you* \
-**Aku pikir kamulah satu-satunya**
+***Tu vois, quelqu'un m'a dit que tu m'aimais encore*** \
+*You see, someone told me that you still love me* \
+**Kamu lihat kan, seseorang memberitahuku bahwa kamu masih mencintaiku**
 
-***Et je sais que tu y crois*** \
-*And I know you believe it* \
-**Dan aku tahu kamu percaya akan hal itu**
+***Me l'a-t-on vraiment dit, que tu m'aimais encore*** \
+*He really told me, that you still love me* \
+**Dia benar-benar memberitahuku, bahwa kamu masih mencintaiku**
 
-***Tu es celui qui rythme mes bonheurs*** \
-*You are the one who gives rhythm to my happiness* \
-**Kamu adalah orang yang memberi irama pada kegembiraanku**
+***Serait-ce possible alors?*** \
+*Would it be possible then?* \
+**Kalau begitu, apakah mungkin?**
 
-***Qui rythme mes humeurs*** \
-*Which rhythm my moods* \
-**Yang berikan irama untuk suasana hatiku**
+## Verse 4
 
-***Juste comme ça*** \
-*Just like that* \
-**Seperti itu**
+  
+***On me dit que nos vies ne valent pas grand-chose*** \
+*I am told that our lives don't have great value* \
+**Aku diberitahu bahwa hidup kita tidak berharga**
 
-***Et je me dis que c'est toi*** \
-*And I tell myself that it's you* \
-**Dan aku pikir kamulah satu-satunya**
+***Elles passent en un instant comme fanent les roses*** \
+*They pass in an instant like roses wither* \
+**Hidup berlalu dalam sekejap secepat layunya mawar**
 
-***Et pour la toute première fois*** \
-*And for the very first time* \
-**Dan untuk pertama kalinya**
+***On me dit que le temps qui glisse est un salaud*** \
+*I am told that the time that slips away is a bastard* \
+**Aku diberitahu bahwa waktu yang berlalu seperti bajingan**
 
-***Pardonne moi mes doutes et mes colères*** \
-*Forgive me my doubts and my anger* \
-**Maafkan keragu-raguan dan amukanku**
+***Que de nos tristesses il s'en fait des manteaux*** \
+*And that it's making coats from our grief* \
+**Bahwa kesedihan kita dibiarkan saja**
 
-***Le temps fera l'affaire*** \
-*Time will do* \
-**Waktu akan melakukan triknya**
+## Chorus 4
 
-***Et toi et moi*** \
-*And you and me* \
-**Dan kamu dan aku**
+***Pourtant quelqu'un m'a dit, que tu m'aimais encore*** \
+*However someone told me, that you still love me* \
+**Namun seseorang memberitahuku, bahwa kamu masih mencintaiku**
 
-***Oh ça ira*** \
-*Well that will be fine* \
-**Kita akan akur**
+***C'est quelqu'un qui m'a dit, que tu m'aimais encore*** \
+*It is someone that told me, that you still love me* \
+**Seseorang yang memberitahuku, bahwa kamu masih mencintaiku**
 
-***(Je me dis que c'est toi)*** \
-*(I think it's you)* \
-**(Aku pikir kamulah satu-satunya)**
-
-***Ça ira*** \
-*We'll be fine* \
-**Kita akan akur**
-
-***(Je sais que tu y crois)*** \
-*(I know you believe it)* \
-**(Aku tahu kamu percaya akan hal itu)**
-
-***Oh ça ira*** \
-*Well that will be fine* \
-**Kita akan akur**
-
-***Et toi et moi (Juste comme ça)*** \
-*And you and me (Just like that)* \
-**Dan kamu dan aku (Seperti itu)**
-
-***(Je me dis que c'est toi)*** \
-*(I think it's you)* \
-**(Aku pikir kamulah satu-satunya)**
-
-***(Et pour la toute première fois)*** \
-*(And for the very first time)* \
-**(Dan untuk pertama kalinya)**
-
-***Et toi et moi*** \
-*And you and me* \
-**Dan kamu dan aku**
-
-***Oh ça ira*** \
-*Well that will be fine* \
-**Kita akan akur**
+***Serait-ce possible alors?*** \
+*Would it be possible then?* \
+**Kalau begitu, apakah mungkin?**
