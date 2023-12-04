@@ -16,7 +16,7 @@ Semua akun sosial media resmi yang kumiliki.
 - google.com/maps/contrib[/115171023594680861028](https://maps.app.goo.gl/hNQNvpXv7S7DBjLCA)
 
 **OFTEN - Sosial media yang sering dibuka, minimal sekali dalam tiga hari**
-- instagram.com[/yudharton](https://instagram.com/yudha_harton)
+- instagram.com[/yudharton](https://instagram.com/yudharton)
 - youtube.com[/@yudhaharton](https://www.youtube.com/@yudhaharton)
 
 **SOMETIMES - Sosial media yang jarang aktif, jarang dibuka, minimal seminggu sekali**
